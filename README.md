@@ -6,6 +6,6 @@ catkin_create_pkg visualizer rospy roscpp std_msgs geometry_msgs visualization_m
 
 git clone nous permet de creer la liaison entre le local et github par la commande suivante
 
-
+git clone https://github.com/ROBO_TP_NOTE_ROS/repo.git
 
 
